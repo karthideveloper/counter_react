@@ -1,2 +1,2 @@
-![Alt Text](C:\Users\Karthi\Downloads\counterApp.gif)
+![screenshot](https://github.com/karthideveloper/counter_react/blob/main/counterApp.gif)
 
